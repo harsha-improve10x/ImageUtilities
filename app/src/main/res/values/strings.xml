@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">ImageUtilities</string>
     <string name="imageUtilities">ImageUtilities</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="preview">Preview</string>
+    <string name="enter_image_url">Enter Image Url</string>
+    <string name="image_url">Image Url</string>
 </resources>
